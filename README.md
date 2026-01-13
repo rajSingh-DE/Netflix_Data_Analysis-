@@ -29,6 +29,6 @@ Sentiment analysis of descriptions. Genre-based clustering and recommendations. 
 
 👨‍💻 Author
 
-Sameer Raj 📧 sameerraj2106@gmail.com 🔗 https://www.linkedin.com/in/sameerraj227/
+Sameer Raj 📧 rajxy191@gmail.com 🔗 https://www.linkedin.com/in/rajsingh9848/
 
 ✨ "Behind every title is a story. Behind every dataset is a discovery."
